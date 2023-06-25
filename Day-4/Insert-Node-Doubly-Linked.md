@@ -12,7 +12,7 @@ The input consists of the following:
 
 **Output Format**
 
-Print the elements of the doubly linked list after inserting the node in sorted order.
+Return the head of the doubly linked list after inserting the node in sorted order.
 
 **Example**
 
